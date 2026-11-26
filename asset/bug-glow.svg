@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<defs><filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<g filter="url(#glow)" stroke="#ff6475" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M32 8c-4-5-12-3-13 4-7-2-13 4-10 11-6 4-5 13 1 16-2 8 4 13 11 11 4 7 12 7 16 1 8 2 14-4 11-11 7-5 5-13-1-17 2-8-5-14-12-11-1-7-8-9-13-4z" fill="#e92745"/>
+<ellipse cx="32" cy="34" rx="17" ry="14" fill="#a90e31"/>
+<path d="M20 19l-6-7m30 7l6-7M17 34H8m39 0h9M21 47l-6 7m28-7l6 7" fill="none"/>
+<path d="M24 32q4-5 8 0m0 0q4-5 8 0" fill="none" stroke="#fff" stroke-width="2"/>
+<circle cx="25" cy="31" r="2.4" fill="#fff"/><circle cx="39" cy="31" r="2.4" fill="#fff"/>
+<path d="M27 41q5 4 10 0" fill="none" stroke="#ffd6dc" stroke-width="2"/>
+</g></svg>
